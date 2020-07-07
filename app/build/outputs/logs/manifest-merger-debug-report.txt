@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f99462dac2347ee7ebd5c4227e8da5a5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/948e019fb77bbdf9d6c219e3c6578edc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/01d5f5e6ab85dca282a1db2011fa461f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/66df649528f694483e6bff729e8efdaf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d0e36ef04680fb3a21a86a5b2cae0ac/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/0645092261ef06cde440649bc3734cc5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/299556c9e31b725dfb50e672064dd026/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d940b3703dc799cdcc49d3e272300d5f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3356765c3697bbfbbedd4f61b23a0344/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f99462dac2347ee7ebd5c4227e8da5a5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f99462dac2347ee7ebd5c4227e8da5a5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/948e019fb77bbdf9d6c219e3c6578edc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/948e019fb77bbdf9d6c219e3c6578edc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/01d5f5e6ab85dca282a1db2011fa461f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/01d5f5e6ab85dca282a1db2011fa461f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/66df649528f694483e6bff729e8efdaf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/66df649528f694483e6bff729e8efdaf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d0e36ef04680fb3a21a86a5b2cae0ac/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d0e36ef04680fb3a21a86a5b2cae0ac/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/0645092261ef06cde440649bc3734cc5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/0645092261ef06cde440649bc3734cc5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/299556c9e31b725dfb50e672064dd026/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/299556c9e31b725dfb50e672064dd026/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d940b3703dc799cdcc49d3e272300d5f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d940b3703dc799cdcc49d3e272300d5f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3356765c3697bbfbbedd4f61b23a0344/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3356765c3697bbfbbedd4f61b23a0344/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.douglas.aplicativo.LoginActivity
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:14:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.douglas.aplicativo.InicialActivity
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:21:19-50
+activity#com.example.douglas.aplicativo.CadastroUsuarioActivity
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:22:19-58
+activity#com.example.douglas.aplicativo.ListaActivity
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:23:19-48
+activity#com.example.douglas.aplicativo.ListaUsuariosActivity
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:24:19-56
+activity#com.example.douglas.aplicativo.IdeauWebViewActivity
+ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:25:9-27:20
+	android:theme
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml:25:19-55
+uses-sdk
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f99462dac2347ee7ebd5c4227e8da5a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f99462dac2347ee7ebd5c4227e8da5a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/948e019fb77bbdf9d6c219e3c6578edc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/948e019fb77bbdf9d6c219e3c6578edc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/01d5f5e6ab85dca282a1db2011fa461f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/01d5f5e6ab85dca282a1db2011fa461f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/66df649528f694483e6bff729e8efdaf/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/66df649528f694483e6bff729e8efdaf/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d0e36ef04680fb3a21a86a5b2cae0ac/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d0e36ef04680fb3a21a86a5b2cae0ac/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/0645092261ef06cde440649bc3734cc5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/0645092261ef06cde440649bc3734cc5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/299556c9e31b725dfb50e672064dd026/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/299556c9e31b725dfb50e672064dd026/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d940b3703dc799cdcc49d3e272300d5f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d940b3703dc799cdcc49d3e272300d5f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3356765c3697bbfbbedd4f61b23a0344/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3356765c3697bbfbbedd4f61b23a0344/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+		ADDED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglasfkln/AndroidStudioProjects/aula-lp4/BASE/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/948e019fb77bbdf9d6c219e3c6578edc/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/948e019fb77bbdf9d6c219e3c6578edc/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/01d5f5e6ab85dca282a1db2011fa461f/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/01d5f5e6ab85dca282a1db2011fa461f/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/66df649528f694483e6bff729e8efdaf/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/66df649528f694483e6bff729e8efdaf/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d0e36ef04680fb3a21a86a5b2cae0ac/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d0e36ef04680fb3a21a86a5b2cae0ac/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/0645092261ef06cde440649bc3734cc5/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/0645092261ef06cde440649bc3734cc5/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/299556c9e31b725dfb50e672064dd026/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/299556c9e31b725dfb50e672064dd026/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d940b3703dc799cdcc49d3e272300d5f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d940b3703dc799cdcc49d3e272300d5f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3356765c3697bbfbbedd4f61b23a0344/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3356765c3697bbfbbedd4f61b23a0344/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/douglasfkln/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/3176c922eccb05e9e1d0d065bb689e88/AndroidManifest.xml:26:9-47

@@ -1,0 +1,7 @@
+#Mon Sep 11 20:34:29 BRT 2017
+base.0=C\:\\Users\\dougl\\Google Drive\\IDEAU\\LINGUAGEM DE PROGRAMACAO 4\\ANDROID\\2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2cc6c9b6a7e741d91b1a02db7f291bc064fa1c13
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\dougl\\Google Drive\\IDEAU\\LINGUAGEM DE PROGRAMACAO 4\\ANDROID\\2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6a9c839dfb7668c65b588502ecd5c1a2e7eab199\\classes.dex
+base.1=C\:\\Users\\dougl\\Google Drive\\IDEAU\\LINGUAGEM DE PROGRAMACAO 4\\ANDROID\\2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6a9c839dfb7668c65b588502ecd5c1a2e7eab199
+file.0=C\:\\Users\\dougl\\Google Drive\\IDEAU\\LINGUAGEM DE PROGRAMACAO 4\\ANDROID\\2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2cc6c9b6a7e741d91b1a02db7f291bc064fa1c13\\classes.dex

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplicativo</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="nome">Nome</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="listar_usuarios">Listagem de Usuários</string>
+    <string name="filtrar">Filtrar:</string>
+    <string name="acessaIdeau">Acessar Ideau</string>
+</resources>
